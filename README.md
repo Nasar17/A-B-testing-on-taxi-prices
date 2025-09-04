@@ -53,9 +53,9 @@ To better understand the data and support the hypothesis testing, the following 
 
 - ![Distribution Graphs](Screenshot%202025-09-04%20114638.png)
 
-- ![Dataset Overview](Screenshot%202025-09-04%20120012.png)
+- ![Dataset Overview](Screenshot%2025-09-04%115530.png)
 
-- ![Percentage Comparision](Screenshot%202025-09-04%20121530.png)
+- ![Percentage Comparision](Screenshot%2025-09-04%114648.png)
 
 These plots help verify assumptions (normality, spread) and provide intuitive insights before applying statistical tests.
 
