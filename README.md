@@ -53,7 +53,7 @@ This dataset is ideal for A/B testing since it naturally divides into **two grou
 To better understand the data and support the hypothesis testing, the following visualizations were used:
 
 - **Histogram / Distribution Plot** → Compare fare distributions for card vs. cash
-  (Screenshots\Screenshot 2025-09-04 114638.png)
+  ![](images/Screenshot%202025-09-04%20114638.png)
 - 
 
 These plots help verify assumptions (normality, spread) and provide intuitive insights before applying statistical tests.
