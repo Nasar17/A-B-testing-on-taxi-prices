@@ -49,7 +49,6 @@ This dataset is ideal for A/B testing since it naturally divides into **two grou
 ---
 
 ## 📈 Visualizations
-
 To better understand the data and support the hypothesis testing, the following visualizations were used:
 
 - ![Distribution Graphs](Screenshot%202025-09-04%20114638.png)
@@ -57,7 +56,6 @@ To better understand the data and support the hypothesis testing, the following 
 - ![Dataset Overview](Screenshot%202025-09-04%20120012.png)
 
 - ![Percentage Comparision](Screenshot%202025-09-04%20121530.png)
-
 
 These plots help verify assumptions (normality, spread) and provide intuitive insights before applying statistical tests.
 
